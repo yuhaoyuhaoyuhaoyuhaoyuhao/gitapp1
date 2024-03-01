@@ -1,10 +1,10 @@
 # git指令介紹
 ### git command study
 
-檢查git版本
+-檢查git版本
 git --version
 
-檢查設定檔
+-檢查設定檔
 git config --list
 
 設定user.name & user.eamil
